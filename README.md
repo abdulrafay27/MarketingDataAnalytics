@@ -56,3 +56,11 @@ NumWebPurchases - number of purchases made through company’s web site
 NumWebVisitsMonth - number of visits to company’s web site in the last month
 <br>
 Recency - number of days since the last purchase
+
+Content
+<br>
+Python Notebook for data wrangling and EDA
+<br>
+PowerBI Dashboard
+<br>
+Old Dataset and Updated Dataset
