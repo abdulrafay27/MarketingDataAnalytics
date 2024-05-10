@@ -1,5 +1,5 @@
 # Marketing Data Analytics
-
+# LOOM video link: https://www.loom.com/share/e1c20064a6be472195e95c6647eee610
 <br>
 Author - Abdul Rafay
 <br>
